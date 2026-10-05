@@ -1,0 +1,10 @@
+streamlit
+pytesseract
+Pillow
+pdfplumber
+pdf2image
+sentence-transformers
+scikit-learn
+rapidfuzz
+plotly
+spacy
