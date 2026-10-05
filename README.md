@@ -6,6 +6,9 @@ Resume Scanner - Job Match is a Streamlit-based application that analyzes a resu
 
 The application can extract resume text from images and PDF files using OCR and text extraction techniques. It identifies important resume details such as contact information, skills, education, and experience. It then compares the extracted skills and resume content with the job description and generates a match score.
 
+## DEMO
+https://resume-scanner-7lc7hmk6aqrsfxkcwlxwzq.streamlit.app/
+
 ## Features
 
 * Upload resume as PDF or image
